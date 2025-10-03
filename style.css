@@ -2,4 +2,11 @@ body {
     background-color: #b60505;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
+
+}
+
+button {
+    background-color: #ff7878;
+    color:white;
+    font-family: "Bai Jamjuree", sans-serif;
 }
