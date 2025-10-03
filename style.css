@@ -2,7 +2,11 @@ body {
     background-color: #b60505;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
-
+display: flex;
+justify-self: center;
+align-items: center;
+height: 700px;
+margin: 0;
 }
 
 button {
@@ -10,3 +14,4 @@ button {
     color:white;
     font-family: "Bai Jamjuree", sans-serif;
 }
+
